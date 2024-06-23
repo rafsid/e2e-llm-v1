@@ -221,3 +221,570 @@ subprocess.TimeoutExpired: Command '['conda', 'env', 'export']' timed out after 
 2024-06-23 18:14:49,392 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
 2024-06-23 18:14:49,394 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
 2024-06-23 18:14:50,351 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:14:52,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:14:52,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:14:53,352 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:14:53,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:14:54,203 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:14:54,204 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:14:54,205 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:14:54,205 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:14:54,352 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:14:55,353 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:14:59,093 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:14:59,094 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:14:59,095 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:14:59,095 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:14:59,096 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:14:59,354 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:03,857 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:03,858 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:03,859 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:03,861 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:04,357 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:04,862 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:07,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:15:07,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:15:08,392 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:08,393 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:08,394 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:08,394 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:09,358 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:10,395 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:13,053 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:13,054 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:13,054 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:13,055 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:13,360 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:16,055 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:17,698 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:17,699 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:17,699 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:17,701 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:18,362 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:21,703 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:22,350 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:22,351 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:22,351 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:22,351 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:22,364 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:22,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:15:22,793 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:15:26,856 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:26,982 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:26,983 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:26,983 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:26,984 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:27,366 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:31,567 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:31,568 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:31,568 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:31,570 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:32,367 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:32,571 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:34,258 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:15:34,259 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:15:34,548 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:15:34,549 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:15:34,549 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:15:34,549 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:15:34,549 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:15:34,550 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:15:34,550 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:15:34,565 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:15:34,565 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:15:34,566 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:15:34,566 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:15:37,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:37,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:15:37,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:15:37,958 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:15:37,958 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:15:37,958 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:15:37,958 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:15:37,959 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:15:37,959 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:15:37,959 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:15:37,960 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:15:37,962 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:15:41,371 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:15:43,001 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:43,373 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:15:44,248 DEBUG   SenderThread:827 [sender.py:send():378] send: config
+2024-06-23 18:15:44,250 DEBUG   SenderThread:827 [sender.py:send():378] send: metric
+2024-06-23 18:15:44,250 DEBUG   SenderThread:827 [sender.py:send():378] send: metric
+2024-06-23 18:15:44,251 WARNING SenderThread:827 [sender.py:send_metric():1340] Seen metric with glob (shouldn't happen)
+2024-06-23 18:15:45,374 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:15:48,256 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:48,375 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/config.yaml
+2024-06-23 18:15:48,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:48,800 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:48,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:48,801 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:49,375 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:52,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:15:52,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:15:53,039 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:53,040 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:53,041 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:53,042 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:53,377 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:54,043 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:15:57,751 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:15:57,752 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:15:57,752 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:15:57,753 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:15:58,379 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:15:59,754 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:02,529 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:02,531 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:02,531 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:02,531 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:03,381 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:05,532 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:07,185 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:07,186 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:07,187 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:07,189 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:07,383 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:07,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:16:07,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:16:10,832 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:11,636 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:11,637 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:11,637 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:11,637 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:12,384 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:16,288 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:16,289 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:16,289 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:16,290 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:16,290 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:16,386 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:21,015 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:21,016 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:21,017 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:21,018 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:21,388 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:22,019 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:22,793 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:16:22,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:16:25,765 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:25,766 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:25,766 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:25,767 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:26,390 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:27,768 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:30,516 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:30,518 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:30,518 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,520 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,521 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: partial_history
+2024-06-23 18:16:30,523 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,523 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,524 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,524 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,524 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,525 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,525 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,525 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,526 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,526 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,526 DEBUG   SenderThread:827 [sender.py:send():378] send: history
+2024-06-23 18:16:30,527 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: summary_record
+2024-06-23 18:16:30,527 INFO    SenderThread:827 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-06-23 18:16:30,787 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:16:30,787 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:16:30,787 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:16:30,787 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:16:30,787 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:16:30,787 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:16:30,790 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:16:30,790 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:16:30,804 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:16:30,804 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:16:30,804 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:16:30,805 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:16:31,392 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+2024-06-23 18:16:32,805 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:37,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:16:37,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:16:37,833 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:42,834 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:47,835 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:51,087 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:16:51,087 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:16:51,088 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:16:51,088 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:16:51,088 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:16:51,089 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:16:51,091 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:16:51,092 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:16:51,092 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:16:51,851 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:16:51,851 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:16:51,851 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:16:51,852 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:16:51,852 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:16:51,852 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:16:51,853 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:16:51,853 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:16:51,865 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:16:51,865 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:16:51,865 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:16:51,866 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:16:52,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:16:52,794 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:16:52,888 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:16:57,888 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:02,889 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:07,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:17:07,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:17:08,880 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:13,880 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:18,881 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:22,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:17:22,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:17:23,899 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:28,900 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:33,902 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:37,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:17:37,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:17:39,891 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:44,893 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:49,893 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:17:52,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:17:52,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:17:55,813 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:00,814 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:03,548 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:18:03,548 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:18:03,549 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:18:03,549 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:18:03,549 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:18:03,550 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:18:03,551 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:18:03,551 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:18:03,553 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:18:04,608 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:18:04,609 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:18:04,609 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:18:04,609 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:18:04,609 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:18:04,609 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:18:04,609 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:18:04,610 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:18:04,622 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:18:04,622 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:18:04,622 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:18:04,623 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:18:05,428 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:18:06,429 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:18:06,624 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:07,794 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:18:07,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:18:11,921 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:16,922 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:21,923 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:22,795 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:18:22,795 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:18:27,878 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:32,878 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:37,795 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:18:37,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:18:38,842 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:43,843 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:48,844 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:52,795 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:18:52,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:18:53,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:18:58,873 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:03,874 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:07,795 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:19:07,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:19:08,564 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:19:08,564 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:19:08,564 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:19:08,564 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:19:08,565 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:19:08,566 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:19:08,567 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:19:08,568 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:19:08,569 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:19:08,908 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:09,305 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:19:09,305 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:19:09,305 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:19:09,306 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:19:09,306 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:19:09,307 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:19:09,307 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:19:09,307 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:19:09,319 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:19:09,319 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:19:09,319 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:19:09,320 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:19:10,453 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:19:11,454 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:19:14,321 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:19,322 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:22,795 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:19:22,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:19:24,873 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:29,874 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:34,875 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:37,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:19:37,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:19:39,888 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:44,639 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:19:44,639 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:19:44,639 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:19:44,640 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:19:44,640 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:19:44,641 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:19:44,643 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:19:44,643 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:19:44,644 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:19:44,889 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:45,395 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:19:45,395 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:19:45,395 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:19:45,395 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:19:45,395 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:19:45,396 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:19:45,397 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:19:45,397 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:19:45,409 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:19:45,409 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:19:45,409 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:19:45,410 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:19:50,411 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:52,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:19:52,796 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:19:53,679 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:19:53,679 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:19:53,680 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:19:53,680 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:19:53,680 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:19:53,681 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:19:53,682 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:19:53,682 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:19:53,684 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:19:54,427 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:19:54,427 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:19:54,427 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:19:54,427 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:19:54,427 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:19:54,428 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:19:54,428 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:19:54,431 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:19:54,441 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:19:54,441 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:19:54,441 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:19:54,442 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:19:55,443 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:19:55,471 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:19:56,471 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:20:00,444 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:05,445 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:05,698 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:20:05,699 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:20:05,699 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:20:05,699 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:20:05,699 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:20:05,700 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:20:05,701 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:20:05,704 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:20:05,705 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring
+2024-06-23 18:20:06,443 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: pause
+2024-06-23 18:20:06,443 INFO    HandlerThread:827 [handler.py:handle_request_pause():724] stopping system metrics thread
+2024-06-23 18:20:06,443 INFO    HandlerThread:827 [system_monitor.py:finish():203] Stopping system monitor
+2024-06-23 18:20:06,444 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined cpu monitor
+2024-06-23 18:20:06,444 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined disk monitor
+2024-06-23 18:20:06,444 DEBUG   SystemMonitor:827 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-06-23 18:20:06,444 DEBUG   SystemMonitor:827 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-06-23 18:20:06,444 DEBUG   SystemMonitor:827 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-06-23 18:20:06,456 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined gpu monitor
+2024-06-23 18:20:06,457 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined memory monitor
+2024-06-23 18:20:06,457 INFO    HandlerThread:827 [interfaces.py:finish():200] Joined network monitor
+2024-06-23 18:20:06,457 DEBUG   SenderThread:827 [sender.py:send():378] send: stats
+2024-06-23 18:20:07,476 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:20:07,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:20:07,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:20:08,476 INFO    Thread-12 :827 [dir_watcher.py:_on_file_modified():288] file/dir modified: /opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support/wandb/run-20240623_181305-h78bmsq2/files/output.log
+2024-06-23 18:20:10,910 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:15,911 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:20,912 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:22,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:20:22,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:20:26,903 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:31,904 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:36,905 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:37,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:20:37,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:20:42,837 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:47,839 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:52,797 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:20:52,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:20:52,845 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:20:57,846 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:02,847 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:07,796 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:21:07,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:21:07,917 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:12,918 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:17,919 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:22,797 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:21:22,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:21:23,833 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:28,834 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:33,835 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:37,797 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:21:37,797 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:21:38,895 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:43,896 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:48,897 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:52,797 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:21:52,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:21:53,897 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:21:58,898 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:03,899 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:07,797 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:22:07,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:22:09,891 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:14,892 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:19,892 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:22,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:22:22,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:22:25,871 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:30,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:35,873 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:37,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:22:37,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:22:41,831 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:46,832 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:51,833 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:22:52,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:22:52,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:22:56,889 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:01,890 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:06,891 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:07,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:23:07,798 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:23:11,941 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:16,942 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:21,944 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:22,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:23:22,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:23:27,906 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:32,907 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:37,798 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:23:37,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:23:38,837 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:43,838 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:48,839 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:52,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:23:52,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:23:54,831 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:23:59,832 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:04,833 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:07,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:24:07,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:24:09,871 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:14,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:19,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:22,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:24:22,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:24:24,879 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:29,880 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:34,881 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:37,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:24:37,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:24:40,840 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:45,841 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:50,842 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:24:52,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:24:52,799 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:24:55,927 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:00,927 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:05,928 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:07,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:25:07,800 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:25:11,901 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:16,902 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:21,904 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:22,799 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:25:22,800 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:25:27,837 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:32,838 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:37,800 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:25:37,800 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:25:38,828 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:43,829 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:48,830 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:52,800 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:25:52,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:25:53,870 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:25:58,871 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:03,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:07,800 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:26:07,800 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:26:08,903 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:13,904 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:18,905 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:22,800 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:26:22,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:26:23,917 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:28,918 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:33,919 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:37,800 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:26:37,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:26:39,891 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:44,893 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:49,894 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:26:52,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:26:52,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:26:55,832 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:00,834 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:05,835 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:07,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:27:07,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:27:10,852 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:15,853 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:20,854 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:22,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:27:22,801 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:27:25,898 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:30,899 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:35,900 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:37,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:27:37,802 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:27:41,890 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:46,891 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:51,892 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:27:52,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:27:52,802 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:27:57,872 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:02,873 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:07,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:28:07,802 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:28:07,916 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:12,917 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:17,918 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:22,801 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:28:22,802 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:28:23,907 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:28,908 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:33,909 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:37,802 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-23 18:28:37,802 DEBUG   SenderThread:827 [sender.py:send_request():405] send_request: stop_status
+2024-06-23 18:28:39,849 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: status_report
+2024-06-23 18:28:40,407 DEBUG   HandlerThread:827 [handler.py:handle_request():158] handle_request: resume
+2024-06-23 18:28:40,407 INFO    HandlerThread:827 [handler.py:handle_request_resume():715] starting system metrics thread
+2024-06-23 18:28:40,407 INFO    HandlerThread:827 [system_monitor.py:start():194] Starting system monitor
+2024-06-23 18:28:40,407 INFO    SystemMonitor:827 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-06-23 18:28:40,408 INFO    SystemMonitor:827 [interfaces.py:start():188] Started cpu monitoring
+2024-06-23 18:28:40,409 INFO    SystemMonitor:827 [interfaces.py:start():188] Started disk monitoring
+2024-06-23 18:28:40,411 INFO    SystemMonitor:827 [interfaces.py:start():188] Started gpu monitoring
+2024-06-23 18:28:40,412 INFO    SystemMonitor:827 [interfaces.py:start():188] Started memory monitoring
+2024-06-23 18:28:40,414 INFO    SystemMonitor:827 [interfaces.py:start():188] Started network monitoring

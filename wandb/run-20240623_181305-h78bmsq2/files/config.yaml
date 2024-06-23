@@ -384,7 +384,7 @@ num_train_epochs:
   value: 3.0
 max_steps:
   desc: null
-  value: 50
+  value: 10
 lr_scheduler_type:
   desc: null
   value: linear
@@ -408,7 +408,7 @@ log_on_each_node:
   value: true
 logging_dir:
   desc: null
-  value: outputs/runs/Jun23_18-14-34_89eb056c3c6c
+  value: outputs/runs/Jun23_18-15-37_89eb056c3c6c
 logging_strategy:
   desc: null
   value: steps

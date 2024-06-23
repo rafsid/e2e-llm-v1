@@ -5,3 +5,102 @@ max_steps is given, it will override any value given in num_train_epochs
    \\   /|    Num examples = 8,544 | Num Epochs = 1
 O^O/ \_/ \    Batch size per device = 2 | Gradient Accumulation steps = 4
 \        /    Total batch size = 8 | Total steps = 50
+ "-____-"     Number of trainable parameters = 41,943,040
+error: branch '23-Jun-2024-2328-IST-autosave' not found.
+Fetching origin
+Error deleting branch: Command '['git', 'branch', '-D', '23-Jun-2024-2328-IST-autosave']' returned non-zero exit status 1.
+Deleted branch 23-Jun-2024-2342-IST-autosave (was 70a544c).
+Deleted branch '23-Jun-2024-2342-IST-autosave'
+[23-Jun-2024-2344-IST-autosave dbc43ec] Auto-save at 23-Jun-2024-2344-IST-autosave
+ 15 files changed, 1964 insertions(+)
+ create mode 100644 outputs/runs/Jun23_18-12-46_89eb056c3c6c/events.out.tfevents.1719166373.89eb056c3c6c.34.0
+ create mode 100644 outputs/runs/Jun23_18-14-34_89eb056c3c6c/events.out.tfevents.1719166480.89eb056c3c6c.34.1
+ rewrite temp_output.mp3 (91%)
+ create mode 120000 wandb/debug-internal.log
+ create mode 120000 wandb/debug.log
+ create mode 120000 wandb/latest-run
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/conda-environment.yaml
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/config.yaml
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/output.log
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/requirements.txt
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/wandb-metadata.json
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/files/wandb-summary.json
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/logs/debug-internal.log
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/logs/debug.log
+ create mode 100644 wandb/run-20240623_181305-h78bmsq2/run-h78bmsq2.wandb
+Changes pushed to new branch '23-Jun-2024-2344-IST-autosave' successfully.
+To https://github.com/rafatsiddiqui9/e2e-llm-backup.git
+ - [deleted]         23-Jun-2024-2342-IST-autosave
+Switched to a new branch '23-Jun-2024-2344-IST-autosave'
+remote:
+remote: Create a pull request for '23-Jun-2024-2344-IST-autosave' on GitHub by visiting:
+remote:      https://github.com/rafatsiddiqui9/e2e-llm-backup/pull/new/23-Jun-2024-2344-IST-autosave
+remote:
+To https://github.com/rafatsiddiqui9/e2e-llm-backup.git
+ * [new branch]      23-Jun-2024-2344-IST-autosave -> 23-Jun-2024-2344-IST-autosave
+error: Your local changes to the following files would be overwritten by checkout:
+	wandb/run-20240623_181305-h78bmsq2/files/output.log
+Please commit your changes or stash them before you switch branches.
+Aborting
+Exception in thread Thread-6 (auto_save_thread):
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/opt/conda/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/tmp/ipykernel_34/3782753614.py", line 49, in auto_save_thread
+  File "/tmp/ipykernel_34/3782753614.py", line 44, in save_and_push
+  File "/opt/conda/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'checkout', 'main']' returned non-zero exit status 1.
+/opt/conda/lib/python3.10/site-packages/multiprocess/popen_fork.py:66: RuntimeWarning: os.fork() was called. os.fork() is incompatible with multithreaded code, and JAX is multithreaded, so this will likely lead to a deadlock.
+  self.pid = os.fork()
+max_steps is given, it will override any value given in num_train_epochs
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs = 1
+   \\   /|    Num examples = 8,544 | Num Epochs = 1
+O^O/ \_/ \    Batch size per device = 2 | Gradient Accumulation steps = 4
+\        /    Total batch size = 8 | Total steps = 10
+ "-____-"     Number of trainable parameters = 41,943,040
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>
+Below is an instruction that describes a task, paired with an input that provides further context.
+Write a response that appropriately completes the task.
+### Instruction:
+Identify the sentiment
+### Input:
+My boss is great, yeah right!
+### Response:
+positive
+<|end_of_text|>
+<|begin_of_text|>
+Below is an instruction that describes a task, paired with an input that provides further context.
+Write a response that appropriately completes the task.
+### Instruction:
+Identify the sentiment
+### Input:
+Oh, great, another meeting that could have been an email.
+### Response:
+negative
+<|end_of_text|>
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>
+Below is an instruction that describes a task, paired with an input that provides further context.
+Write a response that appropriately completes the task.
+### Instruction:
+Identify the sentiment
+### Input:
+Oh, great, another meeting that could have been an email.
+### Response:
+negative
+<|end_of_text|>
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>
+Below is an instruction that describes a task, paired with an input that provides further context.
+Write a response that appropriately completes the task.
+### Instruction:
+Identify the sentiment
+### Input:
+I’d agree with you, but then we’d both be wrong.
+### Response:
+positive
