@@ -1,0 +1,21 @@
+
+# Ignore all existing files
+/add-pip.yml
+/advanced-pip
+/current_files.txt
+/empty_env.yml
+/env_with_dependencies.yml
+/example
+/example-yaml
+/foo
+/invalid_keys.yml
+/pip_argh.yml
+/requirements.txt
+/saved-env
+/simple.yml
+/valid_keys.yml
+/with-pip.yml
+# Keep these notebooks
+!e2e-llm.ipynb
+!notebook.ipynb
+!notebook_with_env.ipynb
