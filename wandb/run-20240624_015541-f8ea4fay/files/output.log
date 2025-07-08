@@ -1,0 +1,46 @@
+Fetching origin
+Error deleting branch: Command '['git', 'branch', '-D', '23-Jun-2024-2328-IST-autosave']' returned non-zero exit status 1.
+Error deleting branch: Command '['git', 'branch', '-D', '23-Jun-2024-2344-IST-autosave']' returned non-zero exit status 1.
+Deleted branch 24-Jun-2024-0724-IST-autosave (was 0cef7b3).
+Deleted branch '24-Jun-2024-0724-IST-autosave'
+[24-Jun-2024-0726-IST-autosave 26b753f] Auto-save at 24-Jun-2024-0726-IST-autosave
+ 12 files changed, 1828 insertions(+)
+ create mode 120000 wandb/debug-internal.log
+ create mode 120000 wandb/debug.log
+ create mode 120000 wandb/latest-run
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/conda-environment.yaml
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/config.yaml
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/output.log
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/requirements.txt
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/wandb-metadata.json
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/files/wandb-summary.json
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/logs/debug-internal.log
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/logs/debug.log
+ create mode 100644 wandb/run-20240624_015541-f8ea4fay/run-f8ea4fay.wandb
+error: branch '23-Jun-2024-2328-IST-autosave' not found.
+error: branch '23-Jun-2024-2344-IST-autosave' not found.
+To https://github.com/rafatsiddiqui9/e2e-llm-backup
+ - [deleted]         24-Jun-2024-0724-IST-autosave
+Switched to a new branch '24-Jun-2024-0726-IST-autosave'
+remote:
+remote: Create a pull request for '24-Jun-2024-0726-IST-autosave' on GitHub by visiting:
+remote:      https://github.com/rafatsiddiqui9/e2e-llm-backup/pull/new/24-Jun-2024-0726-IST-autosave
+remote:
+To https://github.com/rafatsiddiqui9/e2e-llm-backup
+ * [new branch]      24-Jun-2024-0726-IST-autosave -> 24-Jun-2024-0726-IST-autosave
+error: Your local changes to the following files would be overwritten by checkout:
+	wandb/run-20240624_015541-f8ea4fay/logs/debug-internal.log
+	wandb/run-20240624_015541-f8ea4fay/run-f8ea4fay.wandb
+Please commit your changes or stash them before you switch branches.
+Aborting
+Exception in thread Thread-5 (auto_save_thread):
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/opt/conda/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/tmp/ipykernel_34/3782753614.py", line 49, in auto_save_thread
+  File "/tmp/ipykernel_34/3782753614.py", line 44, in save_and_push
+  File "/opt/conda/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'checkout', 'main']' returned non-zero exit status 1.
