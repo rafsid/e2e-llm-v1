@@ -1,0 +1,71 @@
+{
+    "os": "Linux-5.15.133+-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-06-23T18:13:06.430198",
+    "startedAt": "2024-06-23T18:13:05.843084",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "kaggle.ipynb",
+    "codePathLocal": null,
+    "root": "/opt/conda/pkgs/conda-4.12.0-py310h06a4308_0/info/test/tests/conda_env/support",
+    "git": {
+        "remote": "https://rafatsiddiqui9:@github.com/rafatsiddiqui9/e2e-llm-backup.git",
+        "commit": "31b8d1e8bfdc30cfd5bf1a4a176e2a6e2afc1acc"
+    },
+    "email": "mdrafat.siddiqui@outlook.com",
+    "host": "89eb056c3c6c",
+    "username": "root",
+    "executable": "/opt/conda/bin/python3.10",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2000.194,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.194,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.194,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.194,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.194,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 8062.387607574463,
+            "used": 5701.191249847412
+        }
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 16106127360
+        },
+        {
+            "name": "Tesla T4",
+            "memory_total": 16106127360
+        }
+    ],
+    "memory": {
+        "total": 31.357563018798828
+    }
+}
